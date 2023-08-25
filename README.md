@@ -1,11 +1,12 @@
-# Java sorting  program used to sort ! (as simple as it seems)
-#### This program is very useful when you want to sort Lists or Maps 
+# Java sorting  program used to sort! (as simple as it seems)
+#### This program is sorting using collections and streams for educational purposes 
 
 ## Technologies used :
 * Collections
 * Streams
 * Lists
 * Maps
+* Comparator
 
 ## What it does :
   As mentioned it is used to sort, also it's for educational purposes with clarified examples 
