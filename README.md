@@ -7,6 +7,8 @@
 * Lists
 * Maps
 * Comparator
+* Entry
+
 
 ## What it does :
   As mentioned it is used to sort, also it's for educational purposes with clarified examples 
